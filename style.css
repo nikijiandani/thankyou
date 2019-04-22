@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+.container {
+  margin: 0 22px 0 18px;
+}
+.navbar {
+	height: 39.02px;
+	width: 100%;
+  background-color: #248700;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar a {
+  display: inline-block;
+  text-decoration: none;
+  padding-top: 7px;
+  padding-bottom: 8px;
+}
+.tab {
+	color: #FFFFFF;
+	font-family: "Patua One";
+	font-size: 20px;
+	letter-spacing: 0.25px;
+  line-height: 24px;
+}
+#pipe {
+	font-size: 36px;
+	padding-top: 4px;
+}
